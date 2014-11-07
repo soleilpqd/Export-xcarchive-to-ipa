@@ -11,6 +11,8 @@ These workflows are Automator wrapper for that terminal command line to easy use
 - **Export to IPA.workflow**: Finder service
 - **ExportIPA.workflow**: Finder folder action
 
+Tested on Mac OS X 10.9 Mavericks & XCode 6.1
+
 ####INSTALL####
 
 To install Folder action workflow:
